@@ -7,7 +7,6 @@ namespace DesafioPOO.Models
             : base(numero, modelo, imei, memoria)
         { }
 
-        public override string Numero { get; set; }
 
         // TODO: Sobrescrever o método "InstalarAplicativo"
         public override void InstalarAplicativo(string nomeApp)
