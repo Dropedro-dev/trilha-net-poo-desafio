@@ -2,8 +2,8 @@ namespace DesafioPOO.Models
 {
     public abstract class Smartphone
     {
-        private string? _numero;
-        public string? Numero
+        private string _numero;
+        public string Numero
         {
             get => _numero;
             set

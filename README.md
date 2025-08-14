@@ -20,3 +20,12 @@ Você deve criar as suas classes de acordo com o diagrama abaixo:
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## TODO List:
+- [x] Implementar atributos da classe Smartphone
+- [x] Passar parâmetros do construtor da classe Smartphone
+- [x] Nokia herda Smartphone
+- [x] Iphone herda Smartphone
+- [x] Implementar testes
+- [x] EXTRA: implementando segurança ao número de telefone
+- [x] EXTRA: implementando testes ao número de telefone
